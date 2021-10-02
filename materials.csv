@@ -1,0 +1,21 @@
+name,domain,smiles,inchi_key,query match,sections
+noble gas,Gas,,,0.000,claims|description
+electromagnetic field,Effects,,,0.000,description
+Plasma,Anatomy,,,0.000,description
+acceleration,Effects,,,0.000,description
+gravity,Effects,,,0.000,description
+interaction,Effects,,,0.000,description
+anomalous,Effects,,,0.000,description
+electric field,Effects,,,0.000,description
+amplification,Effects,,,0.000,description
+electromagnetic radiation,Effects,,,0.000,description
+equilibration,Methods,,,0.000,description
+aluminum,Metal,[Al],0.000,description
+electrodynamics,Effects,,,0.000,description
+electron-positron pair,Effects,,,0.000,description
+potentiating,Effects,,,0.000,description
+quantum field theories,Effects,,,0.000,description
+radiation effect,Effects,,,0.000,description
+repelling,Effects,,,0.000,description
+spinning,Methods,,,0.000,description
+xenon,Noble Gas,[Xe],0.000,description
